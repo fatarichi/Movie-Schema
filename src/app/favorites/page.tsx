@@ -23,7 +23,7 @@ export default function FavoritesPage() {
           <h2 className='text-2xl font-semibold mb-2'>Data Empty</h2>
 
           <p className='text-base text-gray-400 mb-8'>
-            You don't have a favorite movie yet
+            You do not have a favorite movie yet
           </p>
 
           <Link href='/'>
