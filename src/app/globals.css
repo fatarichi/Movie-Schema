@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+body {
+  background-color: black;
+}
+
+:root {
+  --primary-100: #f3ebff;
+  --primary-200: #8b32ff;
+  --primary-300: #961200;
+  --primary-400: #160131;
+}
